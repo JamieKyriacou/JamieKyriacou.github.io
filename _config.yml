@@ -27,7 +27,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://jamiekyriacou.com/gallery/"  
-  - ABOUT: "https://jamiekyriacou.com/about/"
+ # - ABOUT: "https://jamiekyriacou.com/about/"
 
 # All translation keys
 translations:
