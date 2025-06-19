@@ -4,7 +4,7 @@ email: ""
 description: "Photo Journal"
 url: "https://jamiekyriacou.com"
 baseurl: ""
-share: true
+#share: true
 
 # Owner/author information
 owner:
